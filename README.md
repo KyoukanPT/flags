@@ -22,3 +22,9 @@
 - npm install <a href="https://axios-http.com/docs/intro"> Axios </a> <br>
 - npm install <a href="https://www.npmjs.com/package/pg" >PG</a>
 - node index.js <br>
+
+<hr>
+
+<h3>How to use the App?</h3>
+<p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
+<p> - Fill the input with your answer.</p>
