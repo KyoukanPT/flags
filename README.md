@@ -26,5 +26,5 @@
 <hr>
 
 <h3>How to use the App?</h3>
-<p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
+<p> - After having everything set up and running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
 <p> - Fill the input with your answer.</p>
