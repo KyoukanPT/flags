@@ -25,6 +25,26 @@
 
 <hr>
 
+<h3>Pre-Installation & Configurations </h3>
+- Download <a href="https://www.pgadmin.org/download/"> PG Admin </a> <br>
+- Install PG Admin and create the following tables and attributes: <br><br>
+
+<b>flags</b><br>
+id <br>
+name <br>
+flag <br>
+
+- Import "flags.csv" to pgadmin table "flags" <br>
+
+<hr>
+
+<h3> Documentation: </h3>
+
+- https://www.pgadmin.org/docs/pgadmin4/8.12/index.html
+- https://www.w3schools.com/sql/
+
+<hr>
+
 <h3>How to use the App?</h3>
 <p> - After having everything set up and running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
 <p> - Fill the input with your answer.</p>
